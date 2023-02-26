@@ -14,6 +14,8 @@ pins 1 (3V3), 3 (SDA), 5 (SCL), 7 (nc), 9 (GND)).
 
 KiCAD design-files are in the subdirectory `pcb-i2c-adapter`.
 
+Production files for JLCPCB are in `production_files/`.
+
 
 License
 -------
